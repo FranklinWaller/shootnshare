@@ -20,7 +20,7 @@
     <!-- We'll include the Barcode plugin as an example -->
     <gap:plugin name="org.apache.cordova.camera" />
 	<gap:plugin name="com.phonegap.plugins.facebookconnect" version="0.4.0">
-		<param name="APP_ID" value="777385218951259">
-		<param name="APP_NAME" value="ShootnShare">
+		<param name="APP_ID" value="777385218951259" />
+		<param name="APP_NAME" value="ShootnShare" />
 	</gap:plugin>
 </widget>
